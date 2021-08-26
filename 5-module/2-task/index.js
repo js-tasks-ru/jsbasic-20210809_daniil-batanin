@@ -8,7 +8,4 @@ function toggleText() {
       text.hidden = true;
     }
   });
-  
-  
-
 }
