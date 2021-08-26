@@ -27,8 +27,4 @@ function initCarousel() {
     slide.style.transform = `translateX(${positionSlide += slide.offsetWidth}px)`;
     checkArrow();
   });
-
-  
-
-  
 }
